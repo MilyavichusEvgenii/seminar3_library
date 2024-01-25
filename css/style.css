@@ -22,6 +22,11 @@ body {
     min-width: 1440px;
 }
 
+.center {
+    padding-left: calc(50%-720px);
+    padding-right: calc(50%-720px);
+}
+
 
 .header {
     min-width: 1440px;
